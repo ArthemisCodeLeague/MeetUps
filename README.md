@@ -8,7 +8,7 @@ Para um melhor envolvimento e paricipação em nossos eventos, por favor, leia n
  
 <p>
   <img src="https://res.cloudinary.com/lsmsoft/image/upload/v1544005400/Local-Hack-Day-2018-General-Event-Poster_ank5ff.jpg" width="250" align="center">  
-  <img src="https://github.com/mariatheresahqs/Material/blob/master/imagens/arthemis.jpeg" width="350" align="left"> 
+  <img src="https://github.com/ArthemisCodeLeague/LocalHackDay/blob/master/arthemis.jpeg" width="350" align="left"> 
 </p>
 
 
