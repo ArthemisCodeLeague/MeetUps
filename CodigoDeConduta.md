@@ -14,10 +14,10 @@ Code League**, comprometemo-nos a fazer a participação deste projeto uma exper
 incluem, mas não estão limitados a ofensas verbais ou escritas a comentário relacionados ao gênero, idade, orientação 
 sexual, deficiência, aparência física, tipo de corpo, raça, religião, classe social, status econômico, imagens sexuais, 
 intimidação, perseguição, interrupções insistentes durante fala ou outra apresentação durante a reunião, contato físico 
-inapropriado, e atenção sexual desnecessária. Se o que você está causando desconforto a alguém isso conta como assédio e 
-é rasão suficiente para parar de fazê-lo.
+inapropriado, e atenção sexual desnecessária. Se você estiver causando desconforto a alguém isso contará como assédio e 
+é razão suficiente para parar de fazê-lo.
 
-Caso algum participante seja requisitado para cessar algum tipo de comportamento enquadrado como de assédio ou abusivo 
+Caso algum participante seja requisitado a cessar algum tipo de comportamento enquadrado como de assédio ou abusivo 
 esperar-se-á que cesse tal comportamento de imediato.
 
 ## Nossos padrões
